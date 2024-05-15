@@ -1,5 +1,8 @@
 
 
+beckmann_results
+stable_dynamics_results
+
 ./venv*
 .vscode
 
